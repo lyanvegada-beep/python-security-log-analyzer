@@ -1,0 +1,8 @@
+IP Address,Failed Attempts,Risk Level,Recommendation
+192.168.1.10,5,HIGH,Investigate immediately.
+200.11.90.33,5,HIGH,Investigate immediately.
+91.210.44.101,5,HIGH,Investigate immediately.
+45.67.12.44,4,MEDIUM,Monitor this IP.
+103.55.91.201,4,MEDIUM,Monitor this IP.
+81.22.44.9,4,MEDIUM,Monitor this IP.
+172.16.0.8,3,MEDIUM,Monitor this IP.
